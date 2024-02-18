@@ -1,0 +1,10 @@
+{
+    "nome": "Maicon",
+    "idade": 34,
+    "esta_trabalhando": true,
+    "detalhes_profissao": {
+        "profissao": "programador",
+        "empresa": "xpto"
+    },
+    "hobbies": ["programação", "correr", "ler"]
+}

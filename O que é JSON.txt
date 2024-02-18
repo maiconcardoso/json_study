@@ -1,0 +1,7 @@
+JSON = Javascript Object Notation
+
+Um formato de representação de dados
+Mais simples que XML, que é utilizado para fins parecidos
+Utiliza o formato de chave e valor
+É leve para ser enviado por requisições
+Muito utilizado para API e também arquivos de configuração
